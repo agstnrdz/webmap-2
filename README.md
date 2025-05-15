@@ -4,5 +4,5 @@
 
 #### Para visitar el visualizador <a href="https://agstnrdz.github.io/webmap-2/webmap.html" target="_blank">click aquí.</a>
 
-#### Producción: Dirección General de Modernización e Investigación Territorial (2025). Para visitar el sitio web <a href="https://www.comodoro.gov.ar/miciudad/" target="_blank">click aquí.</a>
+#### Dirección General de Modernización e Investigación Territorial (2025). Para visitar el sitio web <a href="https://www.comodoro.gov.ar/miciudad/" target="_blank">click aquí.</a>
 
